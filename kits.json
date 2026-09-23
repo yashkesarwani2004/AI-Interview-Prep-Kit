@@ -1,0 +1,370 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-23T13:28:29.649Z",
+  "kits": [
+    {
+      "id": "case-01",
+      "status": "ok",
+      "kit": {
+        "source": {
+          "company": "Stripe",
+          "company_url": "https://stripe.com",
+          "role": "Senior Backend Engineer",
+          "location": "Remote / Onsite",
+          "jd_chars": 210,
+          "researched_at": "2026-09-23T13:28:28.065Z",
+          "pages_used": [
+            "https://stripe.com",
+            "https://stripe.com/in/careers",
+            "https://stripe.com/in/customers/jobber",
+            "https://stripe.com/in/atlas"
+          ]
+        },
+        "company_brief": {
+          "summary": "Stripe is an organization operating in the technology sector.",
+          "what_they_do": "Provides software engineering products and services based on public site disclosures.",
+          "sources": [
+            "https://stripe.com",
+            "https://stripe.com/in/careers",
+            "https://stripe.com/in/customers/jobber",
+            "https://stripe.com/in/atlas"
+          ]
+        },
+        "role": {
+          "title": "Senior Backend Engineer",
+          "seniority": "Mid-Senior",
+          "responsibilities": [
+            "Design, develop, and test software components.",
+            "Collaborate with cross-functional team members."
+          ],
+          "requirements": [
+            {
+              "id": "r1",
+              "text": "Senior Backend Engineer",
+              "kind": "technical",
+              "priority": "must"
+            },
+            {
+              "id": "r2",
+              "text": "We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, ",
+              "kind": "behavioural",
+              "priority": "must"
+            }
+          ]
+        },
+        "questions": [
+          {
+            "id": "q_tec_1",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "technical",
+            "prompt": "Describe your experience with Senior Backend Engineer at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with Senior Backend Engineer, highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_beh_2",
+            "requirement_ids": [
+              "r2"
+            ],
+            "category": "behavioural",
+            "prompt": "Describe your experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices,  at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, , highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_sys_3",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "system-design",
+            "prompt": "Describe your experience with Senior Backend Engineer at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with Senior Backend Engineer, highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_sys_4",
+            "requirement_ids": [
+              "r2"
+            ],
+            "category": "system-design",
+            "prompt": "Describe your experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices,  at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, , highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          },
+          {
+            "id": "q_com_5",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "company-fit",
+            "prompt": "Describe your experience with Senior Backend Engineer at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with Senior Backend Engineer, highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_com_6",
+            "requirement_ids": [
+              "r2"
+            ],
+            "category": "company-fit",
+            "prompt": "Describe your experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices,  at Stripe?",
+            "answer_outline": "Demonstrate hands-on experience with We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, , highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          }
+        ],
+        "flashcards": [
+          {
+            "id": "f1",
+            "front": "Key Concept: Senior Backend Engineer",
+            "back": "Essential knowledge for Senior Backend Engineer. Review practical implementation details and core tradeoffs.",
+            "requirement_ids": [
+              "r1"
+            ]
+          },
+          {
+            "id": "f2",
+            "front": "Key Concept: We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, ",
+            "back": "Essential knowledge for We are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, . Review practical implementation details and core tradeoffs.",
+            "requirement_ids": [
+              "r2"
+            ]
+          }
+        ],
+        "schedule": {
+          "days_available": 5,
+          "days": [
+            {
+              "day": 1,
+              "focus": "Day 1: Focus on COMPANY FIT Concepts",
+              "question_ids": [
+                "q_sys_4",
+                "q_com_6"
+              ],
+              "minutes": 60
+            },
+            {
+              "day": 2,
+              "focus": "Day 2: Focus on TECHNICAL Concepts",
+              "question_ids": [
+                "q_tec_1"
+              ],
+              "minutes": 15
+            },
+            {
+              "day": 3,
+              "focus": "Day 3: Focus on BEHAVIOURAL Concepts",
+              "question_ids": [
+                "q_beh_2"
+              ],
+              "minutes": 15
+            },
+            {
+              "day": 4,
+              "focus": "Day 4: Focus on SYSTEM DESIGN Concepts",
+              "question_ids": [
+                "q_sys_3"
+              ],
+              "minutes": 15
+            },
+            {
+              "day": 5,
+              "focus": "Day 5: Focus on COMPANY FIT Concepts",
+              "question_ids": [
+                "q_com_5"
+              ],
+              "minutes": 15
+            }
+          ]
+        },
+        "coverage": {
+          "uncovered_requirement_ids": [],
+          "passes": 1
+        }
+      },
+      "error": null
+    },
+    {
+      "id": "case-02",
+      "status": "ok",
+      "kit": {
+        "source": {
+          "company": "Localhost",
+          "company_url": "http://localhost:8099/acme/",
+          "role": "Frontend Developer with React experience.",
+          "location": "Remote / Onsite",
+          "jd_chars": 41,
+          "researched_at": "2026-09-23T13:28:29.648Z",
+          "pages_used": []
+        },
+        "company_brief": {
+          "summary": "Localhost is an organization operating in the technology sector.",
+          "what_they_do": "Provides software engineering products and services based on public site disclosures.",
+          "sources": []
+        },
+        "role": {
+          "title": "Frontend Developer with React experience.",
+          "seniority": "Mid-Senior",
+          "responsibilities": [
+            "Design, develop, and test software components.",
+            "Collaborate with cross-functional team members."
+          ],
+          "requirements": [
+            {
+              "id": "r1",
+              "text": "Frontend Developer with React experience.",
+              "kind": "technical",
+              "priority": "must"
+            },
+            {
+              "id": "r1",
+              "text": "Core Software Engineering Skills & Problem Solving",
+              "kind": "technical",
+              "priority": "must"
+            }
+          ]
+        },
+        "questions": [
+          {
+            "id": "q_tec_1",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "technical",
+            "prompt": "Describe your experience with Frontend Developer with React experience. at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Frontend Developer with React experience., highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_tec_2",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "technical",
+            "prompt": "Describe your experience with Core Software Engineering Skills & Problem Solving at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Core Software Engineering Skills & Problem Solving, highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          },
+          {
+            "id": "q_beh_3",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "behavioural",
+            "prompt": "Describe your experience with Frontend Developer with React experience. at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Frontend Developer with React experience., highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_beh_4",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "behavioural",
+            "prompt": "Describe your experience with Core Software Engineering Skills & Problem Solving at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Core Software Engineering Skills & Problem Solving, highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          },
+          {
+            "id": "q_sys_5",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "system-design",
+            "prompt": "Describe your experience with Frontend Developer with React experience. at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Frontend Developer with React experience., highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_sys_6",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "system-design",
+            "prompt": "Describe your experience with Core Software Engineering Skills & Problem Solving at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Core Software Engineering Skills & Problem Solving, highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          },
+          {
+            "id": "q_com_7",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "company-fit",
+            "prompt": "Describe your experience with Frontend Developer with React experience. at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Frontend Developer with React experience., highlighting key achievements and technical decisions.",
+            "difficulty": 1
+          },
+          {
+            "id": "q_com_8",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "company-fit",
+            "prompt": "Describe your experience with Core Software Engineering Skills & Problem Solving at Localhost?",
+            "answer_outline": "Demonstrate hands-on experience with Core Software Engineering Skills & Problem Solving, highlighting key achievements and technical decisions.",
+            "difficulty": 2
+          }
+        ],
+        "flashcards": [
+          {
+            "id": "f1",
+            "front": "Key Concept: Frontend Developer with React experience.",
+            "back": "Essential knowledge for Frontend Developer with React experience.. Review practical implementation details and core tradeoffs.",
+            "requirement_ids": [
+              "r1"
+            ]
+          },
+          {
+            "id": "f2",
+            "front": "Key Concept: Core Software Engineering Skills & Problem Solving",
+            "back": "Essential knowledge for Core Software Engineering Skills & Problem Solving. Review practical implementation details and core tradeoffs.",
+            "requirement_ids": [
+              "r1"
+            ]
+          }
+        ],
+        "schedule": {
+          "days_available": 3,
+          "days": [
+            {
+              "day": 1,
+              "focus": "Day 1: Focus on SYSTEM DESIGN Concepts",
+              "question_ids": [
+                "q_tec_2",
+                "q_beh_4",
+                "q_sys_6"
+              ],
+              "minutes": 90
+            },
+            {
+              "day": 2,
+              "focus": "Day 2: Focus on BEHAVIOURAL Concepts",
+              "question_ids": [
+                "q_com_8",
+                "q_tec_1",
+                "q_beh_3"
+              ],
+              "minutes": 60
+            },
+            {
+              "day": 3,
+              "focus": "Day 3: Focus on COMPANY FIT Concepts",
+              "question_ids": [
+                "q_sys_5",
+                "q_com_7"
+              ],
+              "minutes": 30
+            }
+          ]
+        },
+        "coverage": {
+          "uncovered_requirement_ids": [],
+          "passes": 1
+        }
+      },
+      "error": null
+    }
+  ]
+}

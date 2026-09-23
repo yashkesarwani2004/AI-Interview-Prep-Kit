@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-01",
+    "jd": "Senior Backend Engineer\n\nWe are looking for a Node.js and TypeScript expert with 5+ years experience building microservices, MongoDB databases, and GraphQL APIs. Must have experience mentoring junior engineers.",
+    "company_url": "https://stripe.com",
+    "days": 5
+  },
+  {
+    "id": "case-02",
+    "jd": "Frontend Developer with React experience.",
+    "company_url": "http://localhost:8099/acme/",
+    "days": 3
+  }
+]
